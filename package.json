@@ -37,7 +37,7 @@
     "appium-android-driver": "^1.10.27",
     "appium-base-driver": "^2.0.19",
     "appium-fake-driver": "^0.1.10",
-    "appium-ios-driver": "git+https://github.com/McXX/appium-ios-driver.git",
+    "appium-ios-driver": "McXX/appium-ios-driver#04163cc7e1209a028380ff716053e973cea92f09",
     "appium-logger": "^2.1.0",
     "appium-selendroid-driver": "^1.3.4",
     "appium-support": "^2.3.3",
